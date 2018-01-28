@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ##Deployment
-random text
+random text -non comitted text
 
 ## Purpose
 
